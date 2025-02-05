@@ -1,10 +1,11 @@
 ## GNN
 - https://distill.pub/2021/gnn-intro/
-- https://arxiv.org/abs/2204.07697
+- [Theory of Graph Neural Networks: Representation and Learning](https://arxiv.org/abs/2204.07697)
+
 
 
 ## LLM
-- [https://arxiv.org/pdf/2407.10490](https://openreview.net/forum?id=tPNHOoZFl9)
+- [Learning Dynamics of LLM Finetuning](https://openreview.net/forum?id=tPNHOoZFl9)
 
 ## FLow Matching
 - [D-Flow: Differentiating through Flows for Controlled Generation](https://arxiv.org/abs/2402.14017)
