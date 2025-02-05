@@ -10,4 +10,10 @@
 ## FLow Matching
 - [D-Flow: Differentiating through Flows for Controlled Generation](https://arxiv.org/abs/2402.14017)
 - [Bayesian Flow Networks](https://arxiv.org/abs/2308.07037)
-  
+- [Flow Matching for Generative Modeling](https://arxiv.org/abs/2210.02747)
+- [Flow Matching in Latent Space](https://arxiv.org/abs/2307.08698)
+
+## Diffusion Model
+
+- [Adding Conditional Control to Text-to-Image Diffusion Models](https://arxiv.org/abs/2302.05543)
+
