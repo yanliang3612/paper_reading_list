@@ -1,6 +1,7 @@
 ## GNN
 - https://distill.pub/2021/gnn-intro/
 - [Theory of Graph Neural Networks: Representation and Learning](https://arxiv.org/abs/2204.07697)
+- [Dual-Primal Graph Convolutional Networks](https://arxiv.org/abs/1806.00770)
 
 
 
