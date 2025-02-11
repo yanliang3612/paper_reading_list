@@ -22,8 +22,8 @@
 
 
 ## Material
--[Dismai-Bench: benchmarking and designing generative models using disordered materials and interfaces](https://www.osti.gov/pages/biblio/2437813)
+- [Dismai-Bench: benchmarking and designing generative models using disordered materials and interfaces](https://www.osti.gov/pages/biblio/2437813)
 
 ## SBDD
--[Delta Score: Improving the Binding Assessment of Structure-Based Drug Design Methods](https://arxiv.org/abs/2311.12035)
+- [Delta Score: Improving the Binding Assessment of Structure-Based Drug Design Methods](https://arxiv.org/abs/2311.12035)
 
