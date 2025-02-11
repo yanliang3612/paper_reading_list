@@ -20,3 +20,10 @@
 - [Diffusion Models are Certifiably Robust Classifiers](https://arxiv.org/abs/2402.02316)
 - [Robust Classification via a Single Diffusion Model](https://arxiv.org/abs/2305.15241)
 
+
+## Material
+-[https://www.osti.gov/pages/biblio/2437813](https://www.osti.gov/pages/biblio/2437813)
+
+## SBDD
+-[Delta Score: Improving the Binding Assessment of Structure-Based Drug Design Methods](https://arxiv.org/abs/2311.12035)
+
