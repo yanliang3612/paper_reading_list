@@ -27,3 +27,12 @@
 ## SBDD
 - [Delta Score: Improving the Binding Assessment of Structure-Based Drug Design Methods](https://arxiv.org/abs/2311.12035)
 
+## Class Imbalance Diffusion Models
+- [Stabilizing Training of Generative Adversarial Networks through Regularization](https://arxiv.org/abs/1705.09367)
+- [Differentiable Augmentation for Data-Efficient GAN Training](https://arxiv.org/abs/2006.10738)
+- [Training Generative Adversarial Networks with Limited Data](https://arxiv.org/abs/2006.06676)
+- [Regularizing Generative Adversarial Networks under Limited Data](https://arxiv.org/abs/2104.03310)
+- [Deep Generative Models to Counter Class Imbalance: A Model-Metric Mapping With Proportion Calibration Methodology](https://ieeexplore.ieee.org/document/9395632)
+- [Self-Supervised Dense Consistency Regularization for Image-to-Image Translation](https://openaccess.thecvf.com/content/CVPR2022/papers/Ko_Self-Supervised_Dense_Consistency_Regularization_for_Image-to-Image_Translation_CVPR_2022_paper.pdf)
+- [Class-Balancing Diffusion Models](https://arxiv.org/pdf/2305.00562)
+  
