@@ -38,5 +38,5 @@
   
 
 ## AI Tools
-- [ScaffoldGraph: an open-source library for the generation and analysis of molecular scaffold networks and scaffold trees][https://academic.oup.com/bioinformatics/article/36/12/3930/5814205?login=false]
+- [ScaffoldGraph: an open-source library for the generation and analysis of molecular scaffold networks and scaffold trees](https://academic.oup.com/bioinformatics/article/36/12/3930/5814205?login=false)
   
