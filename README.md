@@ -14,12 +14,12 @@
 - [Flow Matching for Generative Modeling](https://arxiv.org/abs/2210.02747)
 - [Flow Matching in Latent Space](https://arxiv.org/abs/2307.08698)
 
-## Diffusion Model
+## Diffusion Model Application 
 
-- [Adding Conditional Control to Text-to-Image Diffusion Models](https://arxiv.org/abs/2302.05543)
+- [Adding Conditional Control to Text-to-Image Diffusion Models](https://arxiv.org/abs/2302.05543) 
 - [Diffusion Models are Certifiably Robust Classifiers](https://arxiv.org/abs/2402.02316)
 - [Robust Classification via a Single Diffusion Model](https://arxiv.org/abs/2305.15241)
-- [High-Resolution Image Synthesis with Latent Diffusion Models](https://arxiv.org/abs/2112.10752v2)
+- [High-Resolution Image Synthesis with Latent Diffusion Models](https://arxiv.org/abs/2112.10752v2) 
 
 
 
