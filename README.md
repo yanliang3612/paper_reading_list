@@ -1,6 +1,6 @@
 ## GNN
 - https://distill.pub/2021/gnn-intro/
-- [Theory of Graph Neural Networks: Representation and Learning](https://arxiv.org/abs/2204.07697)
+- [Theory of Graph Neural Networks: Representation and Learning](https://arxiv.org/abs/2204.07697) 
 - [Dual-Primal Graph Convolutional Networks](https://arxiv.org/abs/1806.00770)
 
 
@@ -40,6 +40,6 @@
   
 
 ## AI Tools
-- [ScaffoldGraph: an open-source library for the generation and analysis of molecular scaffold networks and scaffold trees](https://academic.oup.com/bioinformatics/article/36/12/3930/5814205?login=false)
+- [ScaffoldGraph: an open-source library for the generation and analysis of molecular scaffold networks and scaffold trees](https://academic.oup.com/bioinformatics/article/36/12/3930/5814205?login=false)  [✓]
   
   
