@@ -19,6 +19,8 @@
 - [Adding Conditional Control to Text-to-Image Diffusion Models](https://arxiv.org/abs/2302.05543)
 - [Diffusion Models are Certifiably Robust Classifiers](https://arxiv.org/abs/2402.02316)
 - [Robust Classification via a Single Diffusion Model](https://arxiv.org/abs/2305.15241)
+- [High-Resolution Image Synthesis with Latent Diffusion Models](https://arxiv.org/abs/2112.10752v2)
+
 
 
 ## Material
@@ -39,4 +41,5 @@
 
 ## AI Tools
 - [ScaffoldGraph: an open-source library for the generation and analysis of molecular scaffold networks and scaffold trees](https://academic.oup.com/bioinformatics/article/36/12/3930/5814205?login=false)
+  
   
