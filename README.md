@@ -31,7 +31,7 @@
 
 
 ## Diffusion Model for Molecule Design
-- [Image-based generation for molecule design with SketchMol][https://www.nature.com/articles/s42256-025-00982-3]
+- [Image-based generation for molecule design with SketchMol](https://www.nature.com/articles/s42256-025-00982-3)
 
 ## Class Imbalance Diffusion Models
 - [Stabilizing Training of Generative Adversarial Networks through Regularization](https://arxiv.org/abs/1705.09367)
