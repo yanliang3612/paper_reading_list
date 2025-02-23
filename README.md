@@ -44,7 +44,8 @@
   
 ## Deep Learning Theory
 
-- [A Survey on Statistical Theory of Deep Learning: Approximation, Training Dynamics, and Generative Models][https://arxiv.org/abs/2401.07187]
+- [A Survey on Statistical Theory of Deep Learning: Approximation, Training Dynamics, and Generative Models](https://arxiv.org/abs/2401.07187)
+- 
 ## AI Tools
 - [ScaffoldGraph: an open-source library for the generation and analysis of molecular scaffold networks and scaffold trees](https://academic.oup.com/bioinformatics/article/36/12/3930/5814205?login=false)  [✓]
   
