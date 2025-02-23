@@ -42,7 +42,9 @@
 - [Self-Supervised Dense Consistency Regularization for Image-to-Image Translation](https://openaccess.thecvf.com/content/CVPR2022/papers/Ko_Self-Supervised_Dense_Consistency_Regularization_for_Image-to-Image_Translation_CVPR_2022_paper.pdf)
 - [Class-Balancing Diffusion Models](https://arxiv.org/pdf/2305.00562)
   
+## Deep Learning Theory
 
+- [A Survey on Statistical Theory of Deep Learning: Approximation, Training Dynamics, and Generative Models][https://arxiv.org/abs/2401.07187]
 ## AI Tools
 - [ScaffoldGraph: an open-source library for the generation and analysis of molecular scaffold networks and scaffold trees](https://academic.oup.com/bioinformatics/article/36/12/3930/5814205?login=false)  [✓]
   
