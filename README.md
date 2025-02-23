@@ -29,6 +29,10 @@
 ## SBDD
 - [Delta Score: Improving the Binding Assessment of Structure-Based Drug Design Methods](https://arxiv.org/abs/2311.12035)
 
+
+## Diffusion Model for Molecule Design
+- [Image-based generation for molecule design with SketchMol][https://www.nature.com/articles/s42256-025-00982-3]
+
 ## Class Imbalance Diffusion Models
 - [Stabilizing Training of Generative Adversarial Networks through Regularization](https://arxiv.org/abs/1705.09367)
 - [Differentiable Augmentation for Data-Efficient GAN Training](https://arxiv.org/abs/2006.10738)
