@@ -41,7 +41,11 @@
 - [Deep Generative Models to Counter Class Imbalance: A Model-Metric Mapping With Proportion Calibration Methodology](https://ieeexplore.ieee.org/document/9395632)
 - [Self-Supervised Dense Consistency Regularization for Image-to-Image Translation](https://openaccess.thecvf.com/content/CVPR2022/papers/Ko_Self-Supervised_Dense_Consistency_Regularization_for_Image-to-Image_Translation_CVPR_2022_paper.pdf)
 - [Class-Balancing Diffusion Models](https://arxiv.org/pdf/2305.00562)
-  
+
+## Score-based model
+- [Improved Techniques for Training Score-Based Generative Models](https://arxiv.org/abs/2006.09011)
+- [Score-Based Generative Modeling through Stochastic Differential Equations](https://arxiv.org/abs/2011.13456)
+
 ## Deep Learning Theory
 
 - [A Survey on Statistical Theory of Deep Learning: Approximation, Training Dynamics, and Generative Models](https://arxiv.org/abs/2401.07187)
