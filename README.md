@@ -23,7 +23,7 @@
 
 
 ## Diffusion Model Theory
-- [Sampling is as easy as learning the score: theory for diffusion models with minimal data assumptions](https://openreview.net/forum?id=zyLVMgsZ0U)
+- [Sampling is as easy as learning the score: theory for diffusion models with minimal data assumptions](https://openreview.net/forum?id=zyLVMgsZ0U_)
 ## Material
 - [Dismai-Bench: benchmarking and designing generative models using disordered materials and interfaces](https://www.osti.gov/pages/biblio/2437813)
 
