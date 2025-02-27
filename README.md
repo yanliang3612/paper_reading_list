@@ -22,7 +22,8 @@
 - [High-Resolution Image Synthesis with Latent Diffusion Models](https://arxiv.org/abs/2112.10752v2) 
 
 
-
+## Diffusion Model Theory
+- [Sampling is as easy as learning the score: theory for diffusion models with minimal data assumptions](https://openreview.net/forum?id=zyLVMgsZ0U)
 ## Material
 - [Dismai-Bench: benchmarking and designing generative models using disordered materials and interfaces](https://www.osti.gov/pages/biblio/2437813)
 
