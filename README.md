@@ -1,3 +1,7 @@
+## 知乎科研经验阅读笔记
+- [如何做科研](https://zhuanlan.zhihu.com/p/960781637).
+
+
 ## GNN
 - https://distill.pub/2021/gnn-intro/
 - [Theory of Graph Neural Networks: Representation and Learning](https://arxiv.org/abs/2204.07697) 
