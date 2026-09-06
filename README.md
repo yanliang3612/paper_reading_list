@@ -1,4 +1,6 @@
-## 知乎科研经验阅读笔记
+# Paper Reading List
+
+### 知乎科研经验阅读笔记
 - [如何做科研](https://zhuanlan.zhihu.com/p/960781637).
 
 
@@ -9,16 +11,16 @@
 
 
 
-## LLM
+### LLM
 - [Learning Dynamics of LLM Finetuning](https://openreview.net/forum?id=tPNHOoZFl9)
 
-## FLow Matching
+### FLow Matching
 - [D-Flow: Differentiating through Flows for Controlled Generation](https://arxiv.org/abs/2402.14017)
 - [Bayesian Flow Networks](https://arxiv.org/abs/2308.07037)
 - [Flow Matching for Generative Modeling](https://arxiv.org/abs/2210.02747)
 - [Flow Matching in Latent Space](https://arxiv.org/abs/2307.08698)
 
-## Diffusion Model Application 
+### Diffusion Model Application
 
 - [Adding Conditional Control to Text-to-Image Diffusion Models](https://arxiv.org/abs/2302.05543) 
 - [Diffusion Models are Certifiably Robust Classifiers](https://arxiv.org/abs/2402.02316)
@@ -26,19 +28,19 @@
 - [High-Resolution Image Synthesis with Latent Diffusion Models](https://arxiv.org/abs/2112.10752v2) 
 
 
-## Diffusion Model Theory
+### Diffusion Model Theory
 - [Sampling is as easy as learning the score: theory for diffusion models with minimal data assumptions](https://openreview.net/forum?id=zyLVMgsZ0U_)
-## Material
+### Material
 - [Dismai-Bench: benchmarking and designing generative models using disordered materials and interfaces](https://www.osti.gov/pages/biblio/2437813)
 
-## SBDD
+### SBDD
 - [Delta Score: Improving the Binding Assessment of Structure-Based Drug Design Methods](https://arxiv.org/abs/2311.12035)
 
 
-## Diffusion Model for Molecule Design
+### Diffusion Model for Molecule Design
 - [Image-based generation for molecule design with SketchMol](https://www.nature.com/articles/s42256-025-00982-3)
 
-## Class Imbalance Diffusion Models
+### Class Imbalance Diffusion Models
 - [Stabilizing Training of Generative Adversarial Networks through Regularization](https://arxiv.org/abs/1705.09367)
 - [Differentiable Augmentation for Data-Efficient GAN Training](https://arxiv.org/abs/2006.10738)
 - [Training Generative Adversarial Networks with Limited Data](https://arxiv.org/abs/2006.06676)
@@ -47,19 +49,19 @@
 - [Self-Supervised Dense Consistency Regularization for Image-to-Image Translation](https://openaccess.thecvf.com/content/CVPR2022/papers/Ko_Self-Supervised_Dense_Consistency_Regularization_for_Image-to-Image_Translation_CVPR_2022_paper.pdf)
 - [Class-Balancing Diffusion Models](https://arxiv.org/pdf/2305.00562)
 
-## Score-based model
+### Score-based model
 - [Improved Techniques for Training Score-Based Generative Models](https://arxiv.org/abs/2006.09011)
 - [Score-Based Generative Modeling through Stochastic Differential Equations](https://arxiv.org/abs/2011.13456)
 
-## Deep Learning Theory
+### Deep Learning Theory
 
 - [A Survey on Statistical Theory of Deep Learning: Approximation, Training Dynamics, and Generative Models](https://arxiv.org/abs/2401.07187)
 - [Introduction to Statistical Learning Theory](https://www.econ.upf.edu/~lugosi/mlss_slt.pdf)
   
-## AI Tools
+### AI Tools
 - [ScaffoldGraph: an open-source library for the generation and analysis of molecular scaffold networks and scaffold trees](https://academic.oup.com/bioinformatics/article/36/12/3930/5814205?login=false)  [✓]
 
 
-## Machine Learning
+### Machine Learning
 -[Intriguing properties of neural networks](https://arxiv.org/abs/1312.6199)
   
