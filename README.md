@@ -1,4 +1,6 @@
-# Paper Reading List
+## Paper Reading List
+
+*By [yanliang3612](https://github.com/yanliang3612)*
 
 ### 1. GNN
 - [Theory of Graph Neural Networks: Representation and Learning](https://arxiv.org/abs/2204.07697) — 2022-04-16
