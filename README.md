@@ -9,8 +9,44 @@
 
 ---
 
-### 2. LLM
+### 2. LLM Mheory
 - [Learning Dynamics of LLM Finetuning](https://openreview.net/forum?id=tPNHOoZFl9) (2024-07-15)
+
+
+
+### 3. MoE-LLM
+
+- [MixLoRA: Enhancing Large Language Models Fine-Tuning with LoRA-based Mixture of Experts](https://arxiv.org/abs/2404.15159) (2026-10-14)
+> Trains multiple LoRA experts in the FFN layers together with a learned router for token routing, and applies a standard LoRA adapter to the attention layers.
+
+- [MoLE: Mixture of LoRA Experts](https://arxiv.org/abs/2404.13628) (2026-10-22)
+> Trains a learned router for different lora experts.
+
+- [TT-LoRA MoE: Unifying Parameter-Efficient Fine-Tuning and Sparse Mixture-of-Experts](https://arxiv.org/abs/2504.21190) (2026-10-22)
+> - It treats independently trained task-specific TT-LoRA adapters as sparse experts over a shared frozen dense model.
+> - It compresses each expert from standard LoRA to Tensor-Train form:
+
+  $$
+  \text{LoRA:}\quad \Delta W = BA,
+  \qquad P_{\mathrm{LoRA}} = r(d_{\mathrm{in}} + d_{\mathrm{out}})
+  $$
+
+  $$
+  \text{TT-LoRA:}\quad
+  \Delta W \approx G_1G_2\cdots G_n,
+  \qquad
+  P_{\mathrm{TT}} = \sum_{k=1}^{n} r_{k-1}n_kr_k
+  \ll P_{\mathrm{LoRA}}
+  $$
+  > - It separates expert training and router training into two independent stages.
+  > - It freezes all trained experts to reduce inter-task interference and catastrophic forgetting.
+  > - It uses an input-level noisy Top-1 router to select exactly one expert for each input.
+  > - It supports adding new task experts without retraining or modifying existing experts.
+  > - It directly contracts the input with TT cores without reconstructing the full update matrix.
+
+
+
+
 
 ---
 
